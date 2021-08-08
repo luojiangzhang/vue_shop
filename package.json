@@ -12,7 +12,9 @@
     "element-ui": "^2.4.5",
     "less-loader": "^7.3.0",
     "vue": "^2.6.10",
-    "vue-router": "^3.0.3"
+    "vue-router": "^3.0.3",
+    "vue-table-with-tree-grid": "^0.2.4",
+    "vue-table-with-tree-grid-lan": "^0.2.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.12.0",
